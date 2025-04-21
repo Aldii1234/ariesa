@@ -22,7 +22,7 @@ export default function About() {
 
         <div className="flex flex-col items-center text-center">
           <Image
-            src="/profile.jpg"
+            src="/boris.jpg"
             alt="Foto Profil"
             width={140}
             height={140}
